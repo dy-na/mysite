@@ -1,0 +1,114 @@
+
+.profile {
+    position: absolute;
+width: 183px;
+height: 183px;
+left: 217px;
+top: 221px;
+}
+
+.blue {
+    position: absolute;
+    width: 533px;
+    height: 379px;
+    left: 907px;
+    top: 142px;
+}
+
+.gray {
+    position: absolute;
+    width: 302px;
+    height: 521px;
+    left: 0px;
+    top: 0px;
+}
+
+
+
+.name {
+    position: absolute;
+    width: 366px;
+    height: 208.16px;
+    left: 471px;
+    top: 199px;
+    font-family: 'Lexend';
+}
+
+.birthday {
+    position: absolute;
+    width: 271.69px;
+    height: 45.98px;
+    left: 471px;
+    top: 280.06px;
+}
+
+.university {
+    position: absolute;
+width: 317.72px;
+height: 33.94px;
+left: 471px;
+top: 330px;
+}
+
+.team{
+    position: absolute;
+width: 227.91px;
+height: 25.18px;
+left: 471px;
+top: 381.98px;
+
+}
+
+
+.memories{
+    position: absolute;
+width: 136px;
+height: 30px;
+left: 217px;
+top: 564px;
+color: #7D858F
+}
+
+.image2 {
+    position: absolute;
+    width: 496px;
+    height: 285.85px;
+    left: 227px;
+    top: 628px;
+}
+
+.image3 {
+    position: absolute;
+    width: 467px;
+    height: 287px;
+    left: 756px;
+    top: 628px;
+
+}
+
+.image4 {
+    position: absolute;
+width: 496px;
+height: 287px;
+left: 227px;
+top: 940px;
+}
+
+.image5 {
+position: absolute;
+width: 467px;
+height: 287px;
+left: 756px;
+top: 940px;
+
+}
+
+p {
+    position: absolute;
+    width: 382px;
+    height: 39px;
+    left: 597px;
+    top: 1296px;
+    color: #7D858F;
+    font-family: 'Lexend';
+}
